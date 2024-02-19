@@ -1,0 +1,2 @@
+Video Youtube Doble CRUD Laravel 10 Vue 3 con Inertia.js | Vite | Tailwind | ChartJs | DataTables
+https://www.youtube.com/watch?v=sQwDLrleegA&ab_channel=ProgramandoconDanCruise

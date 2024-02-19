@@ -17,7 +17,8 @@ class DepartmentFactory extends Factory
     public function definition()
     {
         return [
-            //
+            // Info dummy
+            'name' => $this->faker->jobTitle
         ];
     }
 }

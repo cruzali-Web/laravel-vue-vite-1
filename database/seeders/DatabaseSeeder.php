@@ -20,5 +20,9 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
+
+        // Crear la data fake (numero de registros)
+        \App\Models\Department::factory(6)-create();
+        \App\Models\Employee::factory(25)->create();
     }
 }
